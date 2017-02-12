@@ -1,0 +1,24 @@
+Environment is ms1-reseller
+
+---------------------------------------------
+
+api                : ms1
+key                : Ssb1RmaP
+secret             : ************************
+protocol           : https
+host               : api.jwplatform.com
+call               : /videos/create
+params             : {'api_format': 'py', 'download_url':
+                          'https://jwplayer-s3-upload.s3-us-
+                          west-1.amazonaws.com/db8dc0d0-f07c-
+                          11e6-b827-7d45dce175c2', 'title': 'test1'}
+
+---------------------------------------------
+
+{   'rate_limit': {   'limit': 60, 'remaining': 59, 'reset': 1486912140},
+    'status': u'ok',
+    'video': {   'key': u'AgL43cRM'}}
+
+---------------------------------------------
+
+Done.
