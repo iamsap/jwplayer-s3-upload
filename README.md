@@ -7,7 +7,9 @@ A NodeJS wrapper for uploading videos to JWPlayer via S3.
 * Returns the file id from JWPlayer for your own storage
 
 # installation
+```
 npm install --save @iamsap/jwplayer-s3-upload
+```
 
 # usage
 ```
