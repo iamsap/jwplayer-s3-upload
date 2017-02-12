@@ -1,6 +1,6 @@
 {
   "name": "@iamsap/jwplayer-s3-upload",
-  "version": "0.0.1-b",
+  "version": "0.0.1-c",
   "description": "A wrapper for JWPlayer that uses S3 to store video files.",
   "main": "src/lib/index.js",
   "scripts": {
