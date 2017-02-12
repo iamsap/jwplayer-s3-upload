@@ -11,9 +11,9 @@ npm install --save @iamsap/jwplayer-s3-upload
 
 # usage
 ```
-var videoUploader = require('@iamsap/jwplayer-s3-upload');
+var JWPlayerUploader = require('@iamsap/jwplayer-s3-upload');
 var uploader = new JWPlayerUploader();
-uploader.upload('/path/to/file.m4p', function(err, response){
+uploader.upload('/path/to/file.m4p', 'Look at me go!', function(err, response){
        console.log(JSON.stringify(response));
 });
 ```
